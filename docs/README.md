@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /images/cover.jpg
-heroText: 父权制与资本主义
-tagline: 上野千鹤子
+heroText: 我们赖以生存的隐喻
+tagline: '乔治·莱考夫 / 马克·约翰逊 [著] - 何文忠 [译]'
 actionText: 开始阅读
 actionLink: /chapters/01/
 # footer: MIT Licensed | Copyright © 2018-present 上野千鹤子
